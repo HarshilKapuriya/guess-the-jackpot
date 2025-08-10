@@ -18,7 +18,7 @@ Get hints: *Higher* ⬆️ or *Lower* ⬇️ until you hit the jackpot! 💰
    - Click the green **Code** button on this page → **Download ZIP**
    - Or clone using Git:
      ```bash
-     git clone https://github.com/YOUR-USERNAME/guess-the-jackpot.git
+     git clone https://github.com/HarshilKapuriya/guess-the-jackpot.git
      ```
 
 3. **Open a terminal** in the folder where the file is saved.
