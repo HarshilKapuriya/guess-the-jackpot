@@ -16,4 +16,3 @@ while guess != jackpot:
 
 else:
     print(f"Congratulations! You guessed the jackpot number {jackpot} in {counter} tries.")
-    print('Attempts:', counter)
